@@ -18,6 +18,7 @@ public class HomepageTC extends Testbase {
 	@BeforeTest
 	public void Setup() throws InterruptedException{
 		initialisation();
+		// test
 	}	
 	
 	@Test
